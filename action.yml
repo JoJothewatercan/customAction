@@ -1,5 +1,5 @@
-name: 'Keyword releaser 9000'
-description: 'Creates release based on keyword'
+name: 'Hello-sayer'
+description: 'says hello from the action'
 runs:
     using: 'docker'
     image: 'Dockerfile'
