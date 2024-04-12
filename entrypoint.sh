@@ -2,8 +2,6 @@
 set -e
 
 #Do someting
-if true
-    echo "Hello from my custom action"
-else
-    echo "no"
+echo "Hello from my custom action"
+
 fi
